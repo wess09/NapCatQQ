@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/b8e15cba-a20e-44be-b7e4-3e0f863e78fd" width = "305" height = "411" alt="NapCat" align=right />
+<img src="https://github.com/user-attachments/assets/8d90d125-fee8-407d-8191-5b02a628582f" width = "305" height = "411" alt="NapCat" align=right />
 <div align="center">
 
 # NapCat
